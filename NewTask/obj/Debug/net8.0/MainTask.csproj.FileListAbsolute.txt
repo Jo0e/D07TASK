@@ -1,0 +1,14 @@
+D:\asp.net sec\AllTasks\NewTask\bin\Debug\net8.0\MainTask.exe
+D:\asp.net sec\AllTasks\NewTask\bin\Debug\net8.0\MainTask.deps.json
+D:\asp.net sec\AllTasks\NewTask\bin\Debug\net8.0\MainTask.runtimeconfig.json
+D:\asp.net sec\AllTasks\NewTask\bin\Debug\net8.0\MainTask.dll
+D:\asp.net sec\AllTasks\NewTask\bin\Debug\net8.0\MainTask.pdb
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\MainTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\MainTask.AssemblyInfoInputs.cache
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\MainTask.AssemblyInfo.cs
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\MainTask.csproj.CoreCompileInputs.cache
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\MainTask.dll
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\refint\MainTask.dll
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\MainTask.pdb
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\MainTask.genruntimeconfig.cache
+D:\asp.net sec\AllTasks\NewTask\obj\Debug\net8.0\ref\MainTask.dll

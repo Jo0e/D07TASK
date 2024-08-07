@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net sec\\AllTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|d:\\asp.net sec\\alltasks\\newtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|solutionrelative:newtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|d:\\asp.net sec\\alltasks\\newtask\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|solutionrelative:newtask\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|d:\\asp.net sec\\alltasks\\newtask\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|solutionrelative:newtask\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4FDB39-B32D-4087-A988-F629891C9CAD}|SecondSearchTask\\SecondSearchTask.csproj|d:\\asp.net sec\\alltasks\\secondsearchtask\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4FDB39-B32D-4087-A988-F629891C9CAD}|SecondSearchTask\\SecondSearchTask.csproj|solutionrelative:secondsearchtask\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4FDB39-B32D-4087-A988-F629891C9CAD}|SecondSearchTask\\SecondSearchTask.csproj|d:\\asp.net sec\\alltasks\\secondsearchtask\\clscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4FDB39-B32D-4087-A988-F629891C9CAD}|SecondSearchTask\\SecondSearchTask.csproj|solutionrelative:secondsearchtask\\clscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4FDB39-B32D-4087-A988-F629891C9CAD}|SecondSearchTask\\SecondSearchTask.csproj|d:\\asp.net sec\\alltasks\\secondsearchtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4FDB39-B32D-4087-A988-F629891C9CAD}|SecondSearchTask\\SecondSearchTask.csproj|solutionrelative:secondsearchtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp.net sec\\Sections\\D05 Eraasoft .Net 506\\Intro To OOP\\code\\Account\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014BDAFF-87EA-45BC-96B4-2565927804E2}|SearchTask\\FristSearchTask.csproj|d:\\asp.net sec\\alltasks\\searchtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014BDAFF-87EA-45BC-96B4-2565927804E2}|SearchTask\\FristSearchTask.csproj|solutionrelative:searchtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|d:\\asp.net sec\\alltasks\\newtask\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|solutionrelative:newtask\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|d:\\asp.net sec\\alltasks\\newtask\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|solutionrelative:newtask\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|d:\\asp.net sec\\alltasks\\newtask\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|solutionrelative:newtask\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|d:\\asp.net sec\\alltasks\\newtask\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D28A38-FEA7-44D9-AED5-918E60F8742E}|NewTask\\MainTask.csproj|solutionrelative:newtask\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\SecondSearchTask\\Account.cs",
+              "RelativeDocumentMoniker": "SecondSearchTask\\Account.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\SecondSearchTask\\Account.cs",
+              "RelativeToolTip": "SecondSearchTask\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:33:56.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\SecondSearchTask\\Program.cs",
+              "RelativeDocumentMoniker": "SecondSearchTask\\Program.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\SecondSearchTask\\Program.cs",
+              "RelativeToolTip": "SecondSearchTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:33:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\SearchTask\\Program.cs",
+              "RelativeDocumentMoniker": "SearchTask\\Program.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\SearchTask\\Program.cs",
+              "RelativeToolTip": "SearchTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:30:00.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\NewTask\\AccountManager.cs",
+              "RelativeDocumentMoniker": "NewTask\\AccountManager.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\NewTask\\AccountManager.cs",
+              "RelativeToolTip": "NewTask\\AccountManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:04:27.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\NewTask\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "NewTask\\TrustAccount.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\NewTask\\TrustAccount.cs",
+              "RelativeToolTip": "NewTask\\TrustAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:07:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\NewTask\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "NewTask\\SavingsAccount.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\NewTask\\SavingsAccount.cs",
+              "RelativeToolTip": "NewTask\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:48:56.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\NewTask\\Account.cs",
+              "RelativeDocumentMoniker": "NewTask\\Account.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\NewTask\\Account.cs",
+              "RelativeToolTip": "NewTask\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:29:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\NewTask\\Program.cs",
+              "RelativeDocumentMoniker": "NewTask\\Program.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\NewTask\\Program.cs",
+              "RelativeToolTip": "NewTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:29:21.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsCalculator.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\SecondSearchTask\\ClsCalculator.cs",
+              "RelativeDocumentMoniker": "SecondSearchTask\\ClsCalculator.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\SecondSearchTask\\ClsCalculator.cs",
+              "RelativeToolTip": "SecondSearchTask\\ClsCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:37:55.798Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\NewTask\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "NewTask\\AccountUtil.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\NewTask\\AccountUtil.cs",
+              "RelativeToolTip": "NewTask\\AccountUtil.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:35:45.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\AllTasks\\NewTask\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "NewTask\\CheckingAccount.cs",
+              "ToolTip": "D:\\asp.net sec\\AllTasks\\NewTask\\CheckingAccount.cs",
+              "RelativeToolTip": "NewTask\\CheckingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:56:15.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net sec\\Sections\\D05 Eraasoft .Net 506\\Intro To OOP\\code\\Account\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Sections\\D05 Eraasoft .Net 506\\Intro To OOP\\code\\Account\\Program.cs",
+              "ToolTip": "D:\\asp.net sec\\Sections\\D05 Eraasoft .Net 506\\Intro To OOP\\code\\Account\\Program.cs",
+              "RelativeToolTip": "..\\Sections\\D05 Eraasoft .Net 506\\Intro To OOP\\code\\Account\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:59:25.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
